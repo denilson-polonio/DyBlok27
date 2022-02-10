@@ -12,6 +12,4 @@
   <img align="center" width="30px" src="./assets/languages/html.svg">
   <img align="center" width="30px" src="./assets/languages/css.svg">
   <br>
-  <h3><i>Contact Me</i></h3>
-  <strong>Discord:</strong> <a href="https://discord.com/users/691237784094113813">DyBlok27#1441</a>
 </div>
