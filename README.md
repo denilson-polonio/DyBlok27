@@ -4,9 +4,10 @@
   I am a Discord Bots Developer.
   <br>
   <h3><i>Projects</i></h3>
-  <strong><a href="https://bassy.xyz">Bassy</a></strong> - Discord music bot.
+  <strong><a href="https://dyblok.com">Website</a></strong> - My personal website
   <br>
   <h3><i>Programming Languages</i></h3>
+  <img align="center" width="30px" src="./assets/languages/python.svg">
   <img align="center" width="30px" src="./assets/languages/nodejs.svg">
   <img align="center" width="30px" src="./assets/languages/javascript.svg">
   <img align="center" width="30px" src="./assets/languages/html.svg">
