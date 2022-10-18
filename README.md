@@ -1,7 +1,7 @@
 <div align="center">
   <img align="center" width="70px" src="./assets/logo.png">
   <h1>Hi, I'm DyBlok27.</h1>
-  I am a Discord Bots Developer.
+
   <br>
   <h3><i>Projects</i></h3>
   <strong><a href="https://dyblok.com">Website</a></strong> - My personal website
