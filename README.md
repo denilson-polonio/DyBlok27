@@ -5,6 +5,7 @@
   <br>
   <h3><i>Projects</i></h3>
   <strong><a href="https://dyblok.com">Website</a></strong> - My personal website
+  <strong><a href="https://dyblok.com">Bar Manager</a></strong> - Manage your bar
   <br>
   <h3><i>Programming Languages</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
