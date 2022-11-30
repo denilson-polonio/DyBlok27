@@ -6,6 +6,7 @@
   <strong><a href="https://dyblok.com">Website</a></strong> - My personal website
   <br>
   <strong><a href="https://github.com/DyBlok27/bar-manager">Bar Manager</a></strong> - Manage your bar
+  <strong><a href="https://github.com/DyBlok27/css-loading-v1">Css Loading v1</a></strong> - CSS loading animation v1
   <br>
   <h3><i>Programming Languages</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
