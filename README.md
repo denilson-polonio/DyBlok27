@@ -7,6 +7,7 @@
   <br>
   <strong><a href="https://github.com/DyBlok27/css-loading-v1">Css Loading v1</a></strong> - CSS loading animation v1
   <br>
+  <strong><a href="https://github.com/DyBlok27/heart-animation">Heart Animation</a></strong> - Heart animation ❤️
   <h3><i>Programming Languages</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
   <img align="center" width="30px" src="./assets/languages/c.svg">
