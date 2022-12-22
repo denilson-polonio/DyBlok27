@@ -3,8 +3,6 @@
   <h1>Hi, I'm DyBlok27.</h1>
   <br>
   <h3><i>Projects</i></h3>
-  <strong><a href="https://dyblok.com">Website</a></strong> - My personal website
-  <br>
   <strong><a href="https://github.com/DyBlok27/bar-manager">Bar Manager</a></strong> - Manage your bar
   <br>
   <strong><a href="https://github.com/DyBlok27/css-loading-v1">Css Loading v1</a></strong> - CSS loading animation v1
