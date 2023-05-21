@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="70px" src="./assets/logo.png">
+  <img align="center" width="70px" src="./assets/mio-logo.png">
   <h1>Hi, I'm Denilson.</h1>
   <br>
   <h3><i>Projects</i></h3>
