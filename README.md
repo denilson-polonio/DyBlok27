@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="80px" src="./assets/mio-logo.png">
+  <img align="center" width="80px" src="./assets/logo.png">
   <h1>Hi, I'm Denilson</h1>
   <h3><i>Projects</i></h3>
   <strong><a href="https://github.com/denilson-polonio/bar-manager">Bar Manager</a></strong> - Manage your bar
