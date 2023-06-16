@@ -10,7 +10,7 @@
   <br>
   <strong><a href="https://github.com/denilson-polonio/bottle-pet-recycler">Bottle PET Recycler</a></strong> - Recycle PET bottle to filament
   <br>
-  <strong><a href="https://github.com/denilson-polonio/greenhouse-arduino">GreenHouse Arduino - An intelligent and automated way to grow plants in a controlled environment
+  <strong><a href="https://github.com/denilson-polonio/greenhouse-arduino">GreenHouse Arduino</a></strong> - An intelligent and automated way to grow plants in a controlled environment
   <h3><i>Programming Languages</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
   <img align="center" width="30px" src="./assets/languages/c.svg">
