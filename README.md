@@ -2,7 +2,7 @@
   <img align="center" width="80px" src="./assets/logo.png">
   <h1>Hi, I'm Denilson</h1>
   <h3><i>Projects</i></h3>
-  <strong><a href="voxelab-aquila-c2-superslicer-configuration-file"> Voxelab Aquila-C2 SuperSlicer Configuration file</a></strong> - Configuration for my Voxelab Acquila-C2 (3d printer)
+  <strong><a href="[https://github.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-file"> Voxelab Aquila-C2 SuperSlicer Configuration file</a></strong> - Configuration for my Voxelab Acquila-C2 (3d printer)
   <br>
  <strong><a href="https://github.com/denilson-polonio/greenhouse-arduino">GreenHouse Arduino</a></strong> - An intelligent and automated way to grow plants in a controlled environment
   <br>
