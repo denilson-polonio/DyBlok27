@@ -1,5 +1,5 @@
 <div align="center">
-  <img align="center" width="80px" src="./assets/img.png">
+  <img align="center" width="80px" src="./assets/white_logo.png">
   <h1>Hi, I'm Denilson</h1>
   <h3><i>Projects</i></h3>
  <strong><a href="https://github.com/denilson-polonio/greenhouse-arduino">GreenHouse Arduino</a></strong> - An intelligent and automated way to grow plants in a controlled environment
