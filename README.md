@@ -6,8 +6,6 @@
   <br>
   <strong><a href="https://github.com/denilson-polonio/bottle-pet-recycler">Bottle PET Recycler</a></strong> - Recycle PET bottle to filament
   <br>
-  <strong><a href="https://github.com/denilson-polonio/heart-animation">Heart Animation</a></strong> - Heart animation ❤️
-  <br>
   <strong><a href="https://github.com/denilson-polonio/css-loading-v1">Css Loading v1</a></strong> - CSS loading animation v1
   <br>
   <strong><a href="https://github.com/denilson-polonio/bar-manager">Bar Manager</a></strong> - Manage your bar
