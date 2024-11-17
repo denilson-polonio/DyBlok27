@@ -11,9 +11,7 @@
   <strong><a href="https://github.com/denilson-polonio/bar-manager">Bar Manager</a></strong> - Manage your bar
 
   <h3><i>Other</i></h3>
-  <strong><a href="https://github.com/denilson-polonio/voxelab-aquila-c2-superslicer-configuration-file"> Voxelab Aquila-C2 SuperSlicer Configuration file</a></strong> - Configuration for my Voxelab Acquila-C2 (3d printer)
-  <br>
-  <strong><a href="https://github.com/denilson-polonio/keychain-spotify-code-readme"> KeyChain Spotify Code (readme)</a></strong> - Guide on how to create a Spotify keychain
+  <strong> - </strong>
   
   <h3><i>My Skills</i></h3>
   <img align="center" width="30px" src="./assets/languages/python.svg">
